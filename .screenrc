@@ -1,0 +1,15 @@
+term screen-256color
+defscrollback 50000
+
+startup_message off
+
+screen bash
+title "first"
+screen bash
+title "HTop"
+screen bash
+title "Emacs"
+screen bash
+title "Dev 1"
+
+
